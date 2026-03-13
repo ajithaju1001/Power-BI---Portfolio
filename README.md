@@ -1,5 +1,5 @@
 # Productivity Log Dashboard.
-👉 Click Here to View Live Dashboard 
+👉 Click Here to View [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2U0OTE4NWItNWU4Zi00ZTEyLThhZDgtMzg3OTA4MDJiY2Q3IiwidCI6IjQyZmJkNWU4LWI0MWMtNDBhYi05NTA1LTljZThkZDkxYzNlMiIsImMiOjEwfQ%3D%3D)
 
 🛠️ The Tech Stack
 **Data Source**: Microsoft Lists (for real-time data entry)
